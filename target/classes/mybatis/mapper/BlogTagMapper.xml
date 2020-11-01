@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.whgc.mapper.BlogTagMapper">
+<!--     public List<BlogTag> findAllBlogTag();
+    public List<BlogTag> findBlogInTag(Integer BlogId);
+    public List<BlogTag> findTagInBlog(Integer TagId);-->
+    <select id="findAllBlogTag" resultType="blogTag">
+        select * from blogTag
+    </select>
+    <select id="findBlogInTag" resultType="blogTag">
+        select * from blogTag where blogId=#{blogId}
+    </select>
+    <select id="findTagInBlog" resultType="blogTag">
+        select * from blogTag where tagId=#{tagId}
+    </select>
+    <insert id="saveBlogTag" parameterType="blogTag">
+        insert into blogTag value(default,#{blogId},#{tagId})
+    </insert>
+    <delete id="delBlogIntag">
+        delete from blogTag where blogId=#{blogId}
+    </delete>
+    <delete id="delByidTag">
+        delete from blogTag where tagId=#{tagId}
+    </delete>
+</mapper>

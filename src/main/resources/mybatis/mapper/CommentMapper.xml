@@ -1,0 +1,19 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.whgc.mapper.CommentMapper">
+
+    <insert id="saveComment" parameterType="comment">
+        insert into comment(id,nickName,content,avatar,createTime,blogId)
+        value(default,#{nickName},#{content},#{avatar},now(),#{blogId})
+    </insert>
+    <select id="findByidComment" resultType="comment">
+        select * from comment where id = #{id}
+    </select>
+    <select id="findBlogComment" resultType="comment">
+        select * from comment where blogId=#{id}
+    </select>
+    <delete id="dropComment" >
+        drop table comment where id = #{id}
+    </delete>
+</mapper>

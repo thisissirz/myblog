@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myblog" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76e18121-f3cf-4c60-8947-debc9dbe4cee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\thisissirz\Maven\Profiles" />
+        <option name="mavenHome" value="$USER_HOME$/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\thisissirz\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cppl97BwQYLSEGmmYPjIKravV7" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../index" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26721764" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\static\css" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\templates\admin" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\templates\" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\templates" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\static\lib\editormd" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\static\js" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\static\lib\editormd\css" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\static\images" />
+      <recent name="D:\Idea workspaces\myblog-combat\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.26">
+    <configuration name="MyblogCombatApplicationTests.saveBlogTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog-combat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.whgc" />
+      <option name="MAIN_CLASS_NAME" value="com.whgc.MyblogCombatApplicationTests" />
+      <option name="METHOD_NAME" value="saveBlogTag" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogCombatApplicationTests.testBlogNums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog-combat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.whgc" />
+      <option name="MAIN_CLASS_NAME" value="com.whgc.MyblogCombatApplicationTests" />
+      <option name="METHOD_NAME" value="testBlogNums" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogCombatApplicationTests.testDescAllBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog-combat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.whgc" />
+      <option name="MAIN_CLASS_NAME" value="com.whgc.MyblogCombatApplicationTests" />
+      <option name="METHOD_NAME" value="testDescAllBlog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogCombatApplicationTests.testGetbyTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog-combat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.whgc" />
+      <option name="MAIN_CLASS_NAME" value="com.whgc.MyblogCombatApplicationTests" />
+      <option name="METHOD_NAME" value="testGetbyTag" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogCombatApplicationTests.testMD5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog-combat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.whgc" />
+      <option name="MAIN_CLASS_NAME" value="com.whgc.MyblogCombatApplicationTests" />
+      <option name="METHOD_NAME" value="testMD5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogCombatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myblog-combat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.whgc.MyblogCombatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/myblog/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="myblog">
+          <settings>
+            <option name="CONTEXT_PATH" value="/myblog" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myblog-combat_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12542" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myblog" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyblogCombatApplicationTests.testGetbyTag" />
+      <item itemvalue="JUnit.MyblogCombatApplicationTests.testMD5" />
+      <item itemvalue="JUnit.MyblogCombatApplicationTests.saveBlogTag" />
+      <item itemvalue="JUnit.MyblogCombatApplicationTests.testBlogNums" />
+      <item itemvalue="JUnit.MyblogCombatApplicationTests.testDescAllBlog" />
+      <item itemvalue="Spring Boot.MyblogCombatApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.26" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyblogCombatApplicationTests.testBlogNums" />
+        <item itemvalue="JUnit.MyblogCombatApplicationTests.testDescAllBlog" />
+        <item itemvalue="JUnit.MyblogCombatApplicationTests.saveBlogTag" />
+        <item itemvalue="JUnit.MyblogCombatApplicationTests.testGetbyTag" />
+        <item itemvalue="JUnit.MyblogCombatApplicationTests.testMD5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76e18121-f3cf-4c60-8947-debc9dbe4cee" name="Default Changelist" comment="" />
+      <created>1591235537116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591235537116</updated>
+      <workItem from="1591235542017" duration="21509000" />
+      <workItem from="1591268133465" duration="11088000" />
+      <workItem from="1591319638120" duration="6849000" />
+      <workItem from="1591348357008" duration="1628000" />
+      <workItem from="1591405512537" duration="467000" />
+      <workItem from="1591410099029" duration="8602000" />
+      <workItem from="1591488501186" duration="9311000" />
+      <workItem from="1591515295302" duration="1975000" />
+      <workItem from="1591569939853" duration="8333000" />
+      <workItem from="1591618261158" duration="7733000" />
+      <workItem from="1591659971523" duration="691000" />
+      <workItem from="1591669970621" duration="8945000" />
+      <workItem from="1591684805121" duration="19627000" />
+      <workItem from="1591753747145" duration="10438000" />
+      <workItem from="1591772821841" duration="6743000" />
+      <workItem from="1591844856090" duration="26160000" />
+      <workItem from="1591942320491" duration="13285000" />
+      <workItem from="1592015321232" duration="9068000" />
+      <workItem from="1592028645807" duration="12353000" />
+      <workItem from="1592054265688" duration="1067000" />
+      <workItem from="1592098957098" duration="24054000" />
+      <workItem from="1592140906618" duration="5564000" />
+      <workItem from="1592186412752" duration="21468000" />
+      <workItem from="1592277992673" duration="3708000" />
+      <workItem from="1592298581107" duration="8759000" />
+      <workItem from="1592357075858" duration="37922000" />
+      <workItem from="1592445465187" duration="11394000" />
+      <workItem from="1592465322957" duration="3245000" />
+      <workItem from="1592469231846" duration="1827000" />
+      <workItem from="1592562932342" duration="4246000" />
+      <workItem from="1592618071345" duration="7774000" />
+      <workItem from="1592642077226" duration="1010000" />
+      <workItem from="1592819411595" duration="6923000" />
+      <workItem from="1592882309755" duration="769000" />
+      <workItem from="1592889190827" duration="114000" />
+      <workItem from="1592905501578" duration="966000" />
+      <workItem from="1592910551427" duration="6334000" />
+      <workItem from="1592924243397" duration="1510000" />
+      <workItem from="1592953300132" duration="10800000" />
+      <workItem from="1592969891509" duration="156000" />
+      <workItem from="1592971799760" duration="1308000" />
+      <workItem from="1592982269732" duration="245000" />
+      <workItem from="1592982891747" duration="995000" />
+      <workItem from="1593437482544" duration="9297000" />
+      <workItem from="1593482389353" duration="7821000" />
+      <workItem from="1593492408531" duration="147000" />
+      <workItem from="1593499688675" duration="1096000" />
+      <workItem from="1594366801642" duration="986000" />
+      <workItem from="1594446627225" duration="1046000" />
+      <workItem from="1594954612853" duration="1266000" />
+      <workItem from="1601975161928" duration="7030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
