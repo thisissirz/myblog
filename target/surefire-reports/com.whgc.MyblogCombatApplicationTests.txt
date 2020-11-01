@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.whgc.MyblogCombatApplicationTests
--------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.185 s - in com.whgc.MyblogCombatApplicationTests
